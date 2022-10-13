@@ -1,0 +1,63 @@
+body {
+  background-color: FloralWhite;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  width: 200px;
+  border-radius: 100%;
+  border: solid 10px;
+  position: static;
+  left: 600px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* Border for Classes*/
+
+.projects {
+  font-family: 'Bebas Neue', cursive;
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  margin-left: 30px;
+}
+
+
+
+.top-container {
+  height: 1000px;
+  background-color: Azure;
+  width: 100%;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.middle-container {
+  height: 500px;
+  background-color: AliceBlue;
+  width: 100%;
+}
+
+.bottom-container {
+  height: 500px;
+  width: 100%;
+  background-color: white;
+}
+
+.contact {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.bottomspace {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

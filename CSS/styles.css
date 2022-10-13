@@ -1,0 +1,216 @@
+body {
+  background-color: #FFF5E4;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* img {
+  height: 500px;
+  width: 350px;
+  position: static;
+  left: 600px;
+  border-radius: 100%;
+} */
+
+
+h1 {
+  font-family: 'Courgette', cursive;
+  margin-bottom: 0px;
+}
+
+
+p {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+hr {
+  color:purple
+}
+
+/* Border for Classes*/
+
+.about {
+  position: absolute;
+  text-decoration: underline;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  top: 200px;
+  padding-left: 50px;
+}
+
+.aboutme {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  top: 235px;
+  padding-left: 50px;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+.details {
+  position: absolute; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  top: 420px;
+  padding-left: 50px;
+  text-decoration: underline;
+}
+
+.detailsme {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  top: 455px;
+  padding-left: 50px;
+}
+
+.profile {
+  height: 550px;
+  width: 350px;
+  position: static;
+  left: 600px;
+  border-radius: 100%;
+}
+
+.linkedIcon {
+  height: 30px;
+  width: 30px;
+}
+
+.Contact {
+  position:absolute;
+  left: 78%;
+  bottom: 65.5%;
+  text-decoration: underline;
+}
+
+.socialTable {
+  position: absolute;
+  left: 78%;
+  bottom: 57%;
+  
+}
+
+.contactword {
+  padding-left: 10px;
+  text-align: left;
+  font-weight: bold;
+}
+
+
+.checked {
+  color:turquoise
+}
+
+.MainSkills {
+  position: absolute;
+  left: 83%;
+  bottom: 95%;
+  text-decoration: underline;
+
+}
+
+.skilltable {
+  position: absolute;
+  left: 78%;
+  bottom: 72%;
+  border-style: solid;
+  padding-right: 5px;
+}
+
+
+.thehead {
+  text-decoration: underline;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  text-align: left;
+  font-size: 22px;
+  font-family: 'Courgette', cursive;
+}
+
+.thehead2 {
+  text-decoration: underline;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  text-align: left;
+  font-size: 22px;
+  font-family: 'Courgette', cursive;
+}
+
+.column1 {
+  text-align: left;
+  padding-right: 10px;
+  padding: 3px;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+.column2 {
+  text-align: left;
+  padding-left: 13px;
+  font-size: 20px
+}
+
+
+
+.summary {
+
+}
+
+.projects {
+  position: absolute;
+  top: 760px;
+  left: 15px;
+  font-family: 'Courgette', cursive;
+  font-size: 40px;
+  text-decoration: underline
+}
+
+
+
+.projectdata {
+  position: absolute;
+  top: 820px;
+  left: 10px;
+  font-size: 30px;
+  font-family: 'serif';
+  text-decoration: none;
+}
+
+
+.top-container {
+  height: 500px;
+  background-color: #FFE3E1;
+  width: 100%;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.skills-container {
+  height: 500px;
+  background-color: AliceBlue;
+  width: 100%;
+}
+
+.bottom-container {
+  height: 100px;
+  width: 100%;
+  background-color: white;
+}
+
+.contact {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.bottomspace {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
